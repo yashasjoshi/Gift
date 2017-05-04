@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0960b63c593edd746aaa5db0ebafb03c
+timeCreated: 1493512797
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LetterOMatic!
+  fontNames:
+  - LetterOMatic!
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
